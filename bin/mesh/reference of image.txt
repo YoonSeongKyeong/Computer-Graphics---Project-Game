@@ -1,0 +1,2 @@
+galaxy.jpg: https://www.nytimes.com/2018/10/04/magazinegalaxy: /how-do-you-take-a-picture-of-a-black-hole-with-a-telescope-as-big-as-the-earth.html
+thunder.jpg: news photo

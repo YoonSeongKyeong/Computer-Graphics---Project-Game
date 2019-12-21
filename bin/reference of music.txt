@@ -1,0 +1,10 @@
+backgroundMusic.mp3 : 
+	Music from https://filmmusic.io
+"The Whip (Extended Version)" by Kevin MacLeod (https://incompetech.com)
+License: CC BY (http://creativecommons.org/licenses/by/4.0/)
+
+bullet.mp3, hit_sound.mp3, end.wav, circle_die.wav, triangle_die.wav, square_die.wav, time_pause.mp3 : 
+
+Licensed under CC BY 3.0 http://creativecommons.org/licenses/by/3.0/
+
+Hosted on opengameart.org
