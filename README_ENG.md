@@ -1,6 +1,11 @@
 # Time Attack
 # Developed by YoonSeongKyeong
 
+## **PLAY VIDEO**
+![](./play_video/play_video_1.gif)
+![](./play_video/play_video_2.gif)
+
+
 ## **GAME DESCRIPTION**
 
 ### **< Title >**
