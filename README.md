@@ -3,7 +3,9 @@
 
 ## **PLAY VIDEO**
 ![](./play_video/play_video_1.gif)
-
+![](./play_video/play_video_2.gif)
+![](./play_video/play_video_3.gif)
+![](./play_video/play_video_4.gif)
 
 ## **게임 설명**
 
